@@ -5,7 +5,6 @@ C:\Users\gvozd\source\repos\WindowsFormsDBtest2\WindowsFormsDBtest2\obj\Debug\Wi
 C:\Users\gvozd\source\repos\WindowsFormsDBtest2\WindowsFormsDBtest2\obj\Debug\WindowsFormsDBtest2.Form1.resources
 C:\Users\gvozd\source\repos\WindowsFormsDBtest2\WindowsFormsDBtest2\obj\Debug\WindowsFormsDBtest2.Properties.Resources.resources
 C:\Users\gvozd\source\repos\WindowsFormsDBtest2\WindowsFormsDBtest2\obj\Debug\WindowsFormsDBtest2.csproj.GenerateResource.cache
-C:\Users\gvozd\source\repos\WindowsFormsDBtest2\WindowsFormsDBtest2\obj\Debug\WindowsFormsDBtest2.csproj.CoreCompileInputs.cache
 C:\Users\gvozd\source\repos\WindowsFormsDBtest2\WindowsFormsDBtest2\obj\Debug\WindowsFormsDBtest2.exe
 C:\Users\gvozd\source\repos\WindowsFormsDBtest2\WindowsFormsDBtest2\obj\Debug\WindowsFormsDBtest2.pdb
 C:\Users\gvozd\source\repos\WindowsFormsDBtest2\WindowsFormsDBtest2\obj\Debug\WindowsFormsDBtest2.AddForm.resources
